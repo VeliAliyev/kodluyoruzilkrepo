@@ -19,7 +19,7 @@ Linux için:
 
 `code .`
 
-## Conrtribıting
+## Conrtributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
